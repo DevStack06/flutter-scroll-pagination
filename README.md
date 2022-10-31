@@ -1,16 +1,41 @@
-# flutter_infinite_scroll
+# Flutter infinite scroll pagination
 
-A new Flutter project.
+Hey 👋 everyone, in this tutorial we will going to learn how to implement infinite scroll pagination in flutter 😄.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+Tutorial Link: [Click here](https://www.youtube.com/watch?v=7Lff-QClhsY)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App gif](https://github.com/DevStack06/images/blob/master/infinite.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/DevStack06/flutter-scroll-pagination
+```
+
+Go to the project directory
+
+```bash
+  cd flutter-scroll-pagination
+```
+
+Install dependencies
+
+```bash
+  flutter pug get
+```
+
+Start the server
+
+```bash
+  flutter run
+```
+
+## Authors
+
+- [@devstack06](https://github.com/DevStack06)
