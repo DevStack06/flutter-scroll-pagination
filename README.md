@@ -8,7 +8,9 @@ Tutorial Link: [Click here](https://www.youtube.com/watch?v=7Lff-QClhsY)
 
 ## Screenshots
 
-![App gif](https://github.com/DevStack06/images/blob/master/infinite.gif)
+<p align="center">
+<img alt="image" src="https://github.com/DevStack06/images/blob/master/infinite.gif"/>
+</p>
 
 ## Run Locally
 
